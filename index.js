@@ -30,8 +30,8 @@ const hkfoulMessages: TranslationMessages = {
             close_menu: '衾埋',
         },
         boolean: {
-            true: '真',
-            false: '偽',
+            true: '堅',
+            false: '流',
             null: '',
         },
         page: {
@@ -133,3 +133,4 @@ const hkfoulMessages: TranslationMessages = {
         },
     },
 };
+

@@ -1,6 +1,6 @@
 {
   "name": "ra-language-chinese-hongkong-foul",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cantonese foul messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "main": "index.js",
   "scripts": {
