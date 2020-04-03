@@ -1,0 +1,25 @@
+{
+  "name": "ra-language-chinese-hongkong-foul",
+  "version": "1.0.1",
+  "description": "Cantonese foul messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"仆街啦！都冇嘢試嘅？\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencrox/ra-language-chinese-hongkong-foul.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "react-admin",
+    "translation"
+  ],
+  "author": "bencrox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencrox/ra-language-chinese-hongkong-foul/issues"
+  },
+  "homepage": "https://github.com/bencrox/ra-language-chinese-hongkong-foul#readme"
+}
