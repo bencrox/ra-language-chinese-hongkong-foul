@@ -4,7 +4,7 @@
   "description": "Cantonese foul messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"仆街啦！都冇嘢試嘅？\" && exit 1"
+    "test": "echo \"冇嘢好試試條毛咩~\" && exit 1"
   },
   "repository": {
     "type": "git",
